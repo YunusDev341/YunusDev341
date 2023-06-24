@@ -12,7 +12,6 @@
 <a href="https://dev.to/yunusdev341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yunusdev341" height="30" width="40" /></a>
 <a href="https://instagram.com/dengesiz572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dengesiz572" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yunus645645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunus645645" height="30" width="40" /></a>
-<a href="https://discord.gg/_dengesiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_dengesiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
