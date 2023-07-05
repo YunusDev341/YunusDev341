@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C#, HTML5, CSS, Javascript, Bootstrap**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **yunus645645@outlook.com.tr**
 
