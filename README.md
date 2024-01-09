@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **C#, HTML5, CSS, Javascript, Bootstrap**
+- 🔭 I’m currently working on **HTML5, CSS, Javascript, Bootstrap**
 
 - 🌱 I’m currently learning **Java**
 
