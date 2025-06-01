@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **HTML5, CSS, Javascript, Bootstrap,Java, C#**
+- 🔭 I’m currently working on **HTML5, CSS, Javascript, Bootstrap,React,Java,React Native**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **yunus645645@outlook.com.tr**
 
